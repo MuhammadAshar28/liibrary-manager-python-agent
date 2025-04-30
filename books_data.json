@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Gatshy",
+        "author": "F. Scott",
+        "year": "1926",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "LibraTrack",
+        "author": "JA-ones",
+        "year": "2003",
+        "genre": "History",
+        "read": true
+    }
+]
