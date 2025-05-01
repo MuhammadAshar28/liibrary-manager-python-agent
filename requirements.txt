@@ -1,6 +1,2 @@
 streamlit 
- os
- List
-  Dict
-   Any
 python
